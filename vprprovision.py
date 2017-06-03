@@ -40,6 +40,7 @@ def Ftn_Read_File ():
 	return (source)
 
 ############################
+'''
 
 def Ftn_Read_File2():
 	if len(sys.argv) > 1:
@@ -70,6 +71,8 @@ Please reference help.'
 		print "Can't read running config file."
 
 	return oldvlans,newvlans,newvprids,newips
+
+	'''
 		
 
 ##########################
